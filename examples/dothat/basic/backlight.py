@@ -16,6 +16,8 @@ Press CTRL+C to exit.
 
 lcd.set_cursor_position(0, 1)
 lcd.write(" Such Rainbow! ")
+lcd.set_cursor_position(0, 2)
+lcd.write("Dillon's Raz Pi 0!")
 
 x = 0
 
